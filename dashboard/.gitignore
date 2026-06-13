@@ -1,0 +1,20 @@
+# Data files
+Dataset.csv
+models/feature_engineered_spr.csv
+models/processed_sales_data.csv
+
+# Model & scaler files
+models/xgb_model.pkl
+models/scaler_X.pkl
+models/scaler_y.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
