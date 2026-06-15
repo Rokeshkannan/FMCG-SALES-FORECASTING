@@ -222,7 +222,7 @@ Built as a **career-defining portfolio project** at **Imarticus Learning, Bangal
 
 ## 👨‍💻 Author
 
-**Rocky** — Data Science Student, Imarticus Learning Bangalore
+**Rokeshkannan** — Data Science Student, Imarticus Learning Bangalore
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Rokeshkannan)
