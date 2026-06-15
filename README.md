@@ -1,7 +1,7 @@
 # 📦 FMCG Sales Forecasting System
 ### Hybrid AI-Powered Sales Intelligence Dashboard — XGBoost + LSTM + Streamlit
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fmcg-sales-forecasting-o25yktzegqdylh5w38c72b.streamlit.app/))
+[![Streamlit App][(https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fmcg-sales-forecasting-o25yktzegqdylh5w38c72b.streamlit.app/))
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://python.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0-orange)](https://xgboost.ai)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16-red)](https://tensorflow.org)
@@ -224,7 +224,7 @@ Built as a **career-defining portfolio project** at **Imarticus Learning, Bangal
 
 **Rokeshkannan** — Data Science Student, Imarticus Learning Bangalore
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)][(https://www.linkedin.com/in/rokeshkannan)]
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Rokeshkannan)
 
 ---
