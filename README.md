@@ -1,7 +1,7 @@
 # 📦 FMCG Sales Forecasting System
 ### Hybrid AI-Powered Sales Intelligence Dashboard — XGBoost + LSTM + Streamlit
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fmcg-sales-forecasting-system2.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fmcg-sales-forecasting-o25yktzegqdylh5w38c72b.streamlit.app/))
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://python.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0-orange)](https://xgboost.ai)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16-red)](https://tensorflow.org)
@@ -15,7 +15,7 @@ This project builds a **production-ready FMCG Sales Forecasting System** for a T
 
 The system models real-world FMCG distribution logic — **SWD, GR2, ROC, 2W, and Common Pace beats** — with each distributor having one DS (Delivery Salesman) covering 6 beats, each serving strictly defined outlet types.
 
-> **Live Demo →** [fmcg-sales-forecasting-system2.streamlit.app](https://fmcg-sales-forecasting-system2.streamlit.app/)
+> **Live Demo →** [fmcg-sales-forecasting-system2.streamlit.app]([https://fmcg-sales-forecasting-o25yktzegqdylh5w38c72b.streamlit.app/])
 
 ---
 
